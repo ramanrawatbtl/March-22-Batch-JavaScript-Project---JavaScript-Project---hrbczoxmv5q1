@@ -1,4 +1,4 @@
-<!DOCTYPE html> 
+ <!DOCTYPE html> 
 <html>
   <head>
     <link rel="stylesheet" href="style.css">
@@ -29,6 +29,7 @@
     z-index: 0;
     border-radius: 10px;
 }
+
 .glow-on-hover:before {
     content: '';
     background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
@@ -45,15 +46,19 @@
     transition: opacity .3s ease-in-out;
     border-radius: 10px;
 }
+
 .glow-on-hover:active {
     color: #000
 }
+
 .glow-on-hover:active:after {
     background: transparent;
 }
+
 .glow-on-hover:hover:before {
     opacity: 1;
 }
+
 .glow-on-hover:after {
     z-index: -1;
     content: '';
@@ -65,6 +70,7 @@
     top: 0;
     border-radius: 10px;
 }
+
 @keyframes glowing {
     0% { background-position: 0 0; }
     50% { background-position: 400% 0; }
@@ -81,6 +87,7 @@
     z-index: 0;
     border-radius: 10px;
 }
+
 .glow-on-hover:before {
     content: '';
     background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
@@ -97,15 +104,19 @@
     transition: opacity .3s ease-in-out;
     border-radius: 10px;
 }
+
 .glow-on-hover:active {
     color: #000
 }
+
 .glow-on-hover:active:after {
     background: transparent;
 }
+
 .glow-on-hover:hover:before {
     opacity: 1;
 }
+
 .glow-on-hover:after {
     z-index: -1;
     content: '';
@@ -117,6 +128,7 @@
     top: 0;
     border-radius: 10px;
 }
+
 @keyframes glowing {
     0% { background-position: 0 0; }
     50% { background-position: 400% 0; }
@@ -157,6 +169,7 @@
         .type-2:hover {
             box-shadow:0 0 4px rgba(210, 140, 140, 0.5);
           }
+
         button {
             background-color: #ffffffe0;  
             width: 20px;  
@@ -167,12 +180,14 @@
             border: none;
             box-shadow:0 0 7px rgba(231, 220, 220, 0.874);
         }
+
         button:hover{
             background-color: rgb(62, 62, 62);
             border: none;
             box-shadow:0 0 4px rgba(43, 43, 43, 0.5);
             color: bisque;
         }
+
         #tip{
             font-size: larger;
             text-align: center;
@@ -182,6 +197,7 @@
           width: 60px;
          padding-left: 10%;
         }
+
          
           
     </style> -->
@@ -234,7 +250,7 @@
       
 
 
-    <!-- <script>
+    <script>
     
 function calculateTip() {
     var billAmt = document.getElementById("billamt").value;
@@ -249,6 +265,7 @@ function calculateTip() {
   
   
     var total = (billAmt * serviceQual)/numspeople;
+
     total = Math.round(total * 100) / 100;
    
     total = total.toFixed(2);
@@ -265,6 +282,7 @@ function calculateTip() {
     calculateTip();
   
   };
-    </script> -->
+    </script>
   </body>
 </html>
+
