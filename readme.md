@@ -1,9 +1,13 @@
-# NETFLIX
-THIS IS NETFLIX CLONE
+# TIP CALCULATOR
 
-<h1 align="center">Hi 👋, I'm RAMAN RAWAT</h1>
+<h2>Whenever I go out to eat and I’m having a hard time calculating the right tip, I’ll
+fumble with my phone and search for a “tip calculator” on Google. I couldn’t tell you
+the name or the URL of the one I usually end up using, but it’s a simple JavaScript
+app.</h2>
 
-# NETFLIX HOMEPAGE
+>
+
+# tip calculator
 
 - 🌱 
 
@@ -13,32 +17,12 @@ THIS IS NETFLIX CLONE
 
 
 
-## FIRST SECTION 
+## Screenshot 
 
     
    ![Logo](screenshots/first.png)
    
-## SECOND SECTION
- 
-    
-   ![Logo](screenshots/second.png)
-   
-## THIRD SECTION
-     
-    
-   ![Logo](screenshots/third.png)
-   
-## FOURTH SECTION 
-      
-   ![Logo](screenshots/fourth.png) 
 
-
-## Fifth section
-      
-   ![Logo](screenshots/fifth.png) 
-
-## SIXTH SECTION 
-   ![LOGO](screenshots/sixth.png)
 ## Deployment
 
 FOR DIPLOYMENT I USED THE APP NAME AS "NETLIFY"
