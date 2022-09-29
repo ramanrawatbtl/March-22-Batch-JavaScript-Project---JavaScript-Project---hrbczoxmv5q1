@@ -11,7 +11,7 @@ app.</h2>
 
 - 🌱 
 
-- 👨‍💻 website link is [https://github.com/ramanrawatbtl/NETFLIX.git]
+- 👨‍💻 website link is [https://github.com/ramanrawatbtl/March-22-Batch-JavaScript-Project---JavaScript-Project---hrbczoxmv5q1.git]
 
 
 
@@ -20,7 +20,7 @@ app.</h2>
 ## Screenshot 
 
     
-   ![Logo](screenshots/first.png)
+   ![Logo](tipcalc.png)
    
 
 ## Deployment
@@ -37,7 +37,7 @@ FOR DIPLOYMENT I USED THE APP NAME AS "NETLIFY"
 
 
 
-- 💬 Ask me about **HTML,CSS**
+- 💬 Ask me about **HTML,CSS**,javascipt
 
 - 📫 How to reach me **ramanrawatbtl@gmail.com**
 
