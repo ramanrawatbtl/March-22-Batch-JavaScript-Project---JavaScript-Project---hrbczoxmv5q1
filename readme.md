@@ -20,7 +20,7 @@ app.</h2>
 ## Screenshot 
 
     
-   ![Logo](tipcalc.png)
+   ![Logo](https://github.com/ramanrawatbtl/March-22-Batch-JavaScript-Project---JavaScript-Project---hrbczoxmv5q1/blob/master/Annotation%202022-09-29%20041035.png)
    
 
 ## Deployment
